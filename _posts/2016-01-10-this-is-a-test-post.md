@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T23:13:12.695Z'
-dateModified: '2016-01-10T23:06:46.065Z'
+datePublished: '2016-01-10T23:20:51.790Z'
+dateModified: '2016-01-10T23:20:45.217Z'
 title: This is a test post
 author: []
 sourcePath: _posts/2016-01-10-this-is-a-test-post.md

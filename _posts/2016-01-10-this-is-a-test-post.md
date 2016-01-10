@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T23:03:54.524Z'
-dateModified: '2016-01-10T23:03:20.353Z'
+datePublished: '2016-01-10T23:13:12.695Z'
+dateModified: '2016-01-10T23:06:46.065Z'
 title: This is a test post
 author: []
+sourcePath: _posts/2016-01-10-this-is-a-test-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-this-is-a-test-post.md
-published: true
 url: this-is-a-test-post/index.html
 _type: Article
 
@@ -25,3 +25,5 @@ _type: Article
 # This is a test post
 
 I hope that this doesn't suck as much as the last one... wtf
+
+Well, let's keep playing!

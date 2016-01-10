@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T23:13:01.691Z'
-dateModified: '2016-01-10T23:06:54.604Z'
+datePublished: '2016-01-10T23:20:23.924Z'
+dateModified: '2016-01-10T23:20:20.315Z'
 title: Welcome to C-U Around
 author: []
 sourcePath: _posts/2016-01-10-welcome-to-c-u-around.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: welcome-to-c-u-around/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Welcome to C-U Around: a podcast for Champaign-Urbana by Champaign-Urbana

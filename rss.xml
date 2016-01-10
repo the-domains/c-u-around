@@ -4,7 +4,7 @@
         <description><![CDATA[A podcast for C-U by C-U]]></description>
         <link>https://thegrid.ai/c-u-around/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 23:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 23:13:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/c-u-around/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is a test post]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Welcome to C-U Around: a podcast for Champaign-Urbana by Champaign-Urbana]]></title>
-            <description><![CDATA[<article><h1>Welcome to C-U Around: a podcast for Champaign-Urbana by Champaign-Urbana</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7e9812ecad25cb698eb463e84217c2f722956b0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Welcome to C-U Around: a podcast for Champaign-Urbana by Champaign-Urbana</h1><p>Hello, my name is Tom Mohr. Welcome to C-U Around. C-U Around is a podcast and blog dedicated to highlighting all of the amazing things that Champaign Urbana has to offer, from the night life to the family life, sports events to music events, we are going to capture it all! </p></article>]]></description>
             <link>https://thegrid.ai/c-u-around/welcome-to-c-u-around/index.html</link>
             <guid isPermaLink="false">234b3585-bbd9-4c7c-b666-16f4b7f80508</guid>
-            <pubDate>Sun, 10 Jan 2016 22:52:43 GMT</pubDate>
+            <pubDate>Sun, 10 Jan 2016 23:13:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
